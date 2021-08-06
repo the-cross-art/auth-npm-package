@@ -1,5 +1,5 @@
 {
-  "name": "@modelclubauth/common",
+  "name": "@modelclubauth/auth-npm-package",
   "version": "1.0.6",
   "description": "",
   "main": "./build/index.js",
@@ -14,6 +14,9 @@
   },
   "keywords": [],
   "author": "",
+  "repository": {
+    "url": "git://github.com/the-cross-art/auth-npm-package.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "del-cli": "^4.0.1",
