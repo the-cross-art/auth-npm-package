@@ -1,5 +1,5 @@
 {
-  "name": "@modelclubauth/com.auth-npm-package.test",
+  "name": "@modelclubauth/common",
   "version": "1.0.6",
   "description": "",
   "main": "./build/index.js",
@@ -14,9 +14,6 @@
   },
   "keywords": [],
   "author": "",
-  "repository": {
-    "url": "git://github.com/the-cross-art/auth-npm-package.git"
-  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
